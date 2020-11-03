@@ -1,9 +1,8 @@
 ---
 author: "Luca Bontempi"
-title: "About"
-# tags: ["about"]
+title: "About me - Mi presento"
+tags: ["about"]
 hideMeta: true
-disableShare: true
 ---
 
 Ciao, mi chiamo Luca Bontempi e sono uno studente!

@@ -35,11 +35,11 @@ params:
   disableSpecial1stPost : false
 
   assets:
-    favicon: "<path / external url>"
+    favicon: # "<path / external url>"
 
   label:
     text: "Home"
-  # icon: /apple-touch-icon.png
+    # icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -49,15 +49,15 @@ params:
     # imageUrl: '<img location>'
     # imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
+      - name: Blog
+        url: blog
       - name: Tags
         url: tags
       - name: About
         url: about
 
   # home-info mode
-  #h omeInfoParams:
+  # homeInfoParams:
     # Title: "Ciao! Mi chiamo Luca Bontempi!"
     # Content: Welcome to my blog
 
@@ -71,9 +71,12 @@ params:
     # - name: strava
       # url: 'https://www.strava.com/athletes/4403103'
     - name: email
-      url: "mailto:lucabontempi.97@live.it"
+      url: "mailto:luca@lucabontempi.com"
 
 
   # analytics:
     # google:
       # SiteVerificationTag: "XYZabc"
+
+# Pluralize titles in lists using inflect
+pluralizeListTitles: false

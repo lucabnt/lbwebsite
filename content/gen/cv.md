@@ -19,8 +19,8 @@ disableShare: true
 # comments: false
 ---
 
-# Luca Bontempi
-Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
+## Luca Bontempi
+Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | Phone: +393385738868 | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 
 ## Education
@@ -29,7 +29,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 -   Degree Score: 102/110
--   Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "The Information Technology Industry: Software as a Product and a Service")"" (in Italian)
+-   Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "The Information Technology Industry: Software as a Product and a Service")" (in Italian)
 
 #### SCIENTIFIC HIGH SCHOOL DIPLOMA | JUL 2016 | LICEO SCIENTIFICO ANTONIETTI ISEO
 -   Final Mark: 76/100

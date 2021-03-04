@@ -20,7 +20,7 @@ disableShare: true
 ---
 
 ## Luca Bontempi
-Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | Phone: +393385738868 | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
+Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | Phone: [+39 3385738868](tel:+393385738868) | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
 
 ## Education

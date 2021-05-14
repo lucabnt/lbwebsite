@@ -36,7 +36,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | Phone: [+39 3385738868](
 #### LANGUAGES
 
 * Italian (native)
-* English (B2)
+* English (C1)
 
 #### DIGITAL SKILLS
 

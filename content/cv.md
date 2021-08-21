@@ -11,6 +11,10 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 ## Education
 
+#### MASTER OF SCIENCE IN EUROPEAN MANAGEMENT | ONGOING STUDIES | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+
+* Double Degree program with University of Pavia
+
 #### MASTER IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
 
 * Curriculum: Digital Management

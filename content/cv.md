@@ -15,14 +15,14 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 * Double Degree program with University of Pavia
 
-#### MASTER IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
+#### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
 
 * Curriculum: Digital Management
 
 #### BACHELOR’S DEGREE IN BUSINESS ADMINISTRATION | MAR 2020 | UNIVERSITY OF BRESCIA
 
 * Degree Score: 102/110
-* Bachelor's Thesis: "[The Information Technology Industry: Software as a Product and a Service]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)
+* Bachelor's Thesis: "\[The Information Technology Industry: Software as a Product and a Service\]( {{< ref "il_mercato_informatico.md" >}} "Il mercato informatico: il software come prodotto e servizio")" (in Italian)
 
 #### SCIENTIFIC HIGH SCHOOL DIPLOMA | JUL 2016 | LICEO SCIENTIFICO ANTONIETTI ISEO
 

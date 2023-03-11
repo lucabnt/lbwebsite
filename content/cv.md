@@ -9,6 +9,19 @@ disableShare: true
 
 Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
 
+## Experience
+
+#### ECOSYSTEM TECHNICAL SALES INTERN | IBM | MAR 2023
+
+* Internship
+* Milan, Italy
+
+#### ADMINISTRATION INTERN | NEW MASTER SRL | OCT 2019 – DEC 2019
+
+* Internship
+* Administration in Logistics and Transportation
+
+
 ## Education
 
 #### MASTER OF SCIENCE IN EUROPEAN MANAGEMENT | ONGOING STUDIES | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
@@ -28,12 +41,6 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 * Final Score: 76/100
 
-## Experience
-
-#### INTERN IN ADMINISTRATION | NEW MASTER SRL | OCT 2019 – DEC 2019
-
-* Internship
-* Administration in Logistics and Transportation
 
 ## Skills
 

@@ -49,7 +49,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 #### LANGUAGES
 
 * Italian (native)
-* English (C1, IELTS Academic - Overall Band Score 7.5)
+* English (C1)
 
 #### DIGITAL SKILLS
 

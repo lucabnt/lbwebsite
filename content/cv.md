@@ -7,7 +7,7 @@ disableShare: true
 ---
 ## Luca Bontempi
 
-Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com)
+Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontempi.com](mailto:luca@lucabontempi.com) | [LinkedIn](https://www.linkedin.com/in/lucabontempi1/)
 
 ## Experience
 

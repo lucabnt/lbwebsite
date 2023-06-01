@@ -11,7 +11,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 ## Experience
 
-#### PARTNER TECHNICAL SPECIALIST, IBM ECOSYSTEM | IBM ITALIA SPA | MAR 2023 - PRESENT
+#### PARTNER TECHNICAL SPECIALIST, IBM ECOSYSTEM | IBM ITALIA SPA | MAR 2023 - MAY 2023
 
 * Technical-oriented Sales in IBM Technology, Italy
 * Internship

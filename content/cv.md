@@ -32,7 +32,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 ## Education
 
-#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | MAR 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
+#### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | FEB 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
 Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 

@@ -34,6 +34,8 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 #### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | FEB 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
+Final Degree Score: Gut
+
 Master's Thesis: "Determinants of Download on Mobile App Stores - An Empirical Analysis"
 
 Double Degree program with University of Pavia. 
@@ -41,8 +43,9 @@ Double Degree program with University of Pavia.
 Attended courses: Marketing-Mix Management, eBusiness, Innovation and Technological Change, Master's Seminar in Advanced Empirical Public Economics.
 <!-- * Double Degree program with University of Pavia -->
 
-#### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | ONGOING STUDIES | UNIVERSITY OF PAVIA
+#### MASTER OF SCIENCE IN INTERNATIONAL BUSINESS AND ENTERPRENEURSHIP | JUL 2023 | UNIVERSITY OF PAVIA
 
+Final Degree Score: 110/110
 
 Curriculum in Digital Management. 
 

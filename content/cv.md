@@ -34,7 +34,7 @@ Birth Date: 11 Jun 1997 | Birth Place: Brescia, Italy | E-mail: [luca@lucabontem
 
 #### MASTER'S DEGREE IN EUROPEAN MANAGEMENT | FEB 2023 | EBERHARD KARLS UNIVERSITY OF TÜBINGEN
 
-Final Degree Score: Gut
+Final Degree Score: Gut (1.57/1)
 
 Master's Thesis: "[Determinants of Download on Mobile App Stores - An Empirical Analysis](https://lucabontempi.com/blog/determinants_of_download_on_mobile_app_stores/ "Determinants of Download on Mobile App Stores - An Empirical Analysis")"
 
